@@ -19,7 +19,7 @@ tendrán que estar integradas en el master al momento de la entrega,
 
 Nuestra propuesta de servicio 24hrs ha tenido muy buena acogida, y para
 expandirnos necesitamos un sistema que nos ayude a tomar los pedidos de los
-clientes.
+clientes y atenderlos cordialmente.
 
 - Tenemos 2 menús: uno para el desayuno, que es bien sencillo:
 
