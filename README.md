@@ -2,8 +2,8 @@
 
 Somos **Burguer Queen**, una cadena de comida rápida 24hrs.
 
-## Entregables
-Integrantes: Jymma, Naty y Andrea
+## Integrantes
+Jymma, Naty y Andrea
 
 ## Entregables
 
