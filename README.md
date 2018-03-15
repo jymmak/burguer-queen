@@ -3,6 +3,9 @@
 Somos **Burguer Queen**, una cadena de comida rápida 24hrs.
 
 ## Entregables
+Integrantes: Jymma, Naty y Andrea
+
+## Entregables
 
 * Realizarán un _fork_ de este repositorio. Este trabajo es **colaborativo**, 
 por lo tanto se evaluará que esté desarrollado equitativamente entre sus 
