@@ -15,8 +15,6 @@ integrantes
 tendrán que estar integradas en el master al momento de la entrega, 
 **cada rama deberá tener de 5 a más commits por integrante**
 
-* Recuerden que deben actualizar este README con la descripción de su proyecto
-
 ## Requisitos del negocio
 
 Nuestra propuesta de servicio 24hrs ha tenido muy buena acogida, y para
